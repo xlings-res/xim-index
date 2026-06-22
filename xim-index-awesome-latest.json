@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "index_version": "0.4.53",
+  "index_name": "awesome",
+  "generated_at": "2026-06-22T07:04:25Z",
+  "source_commit": "c17ca547a16ce02f129215256ffc69a031d32f0b",
+  "artifact": {
+    "name": "xim-index-awesome-0.4.53.tar.gz",
+    "sha256": "62f4e8a0fcd52981ca6ca5e6af0a239907df5e2564c170e2cae1e86ba9c369b9",
+    "size": 7555
+  },
+  "signature": null
+}

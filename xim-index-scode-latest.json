@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "index_version": "0.4.53",
+  "index_name": "scode",
+  "generated_at": "2026-06-22T07:04:26Z",
+  "source_commit": "9ac17094697943ccc356e65ff59ac7404fe1a148",
+  "artifact": {
+    "name": "xim-index-scode-0.4.53.tar.gz",
+    "sha256": "f00367427b3cad05eea5e766b787de611872f989e7f3aa7296c5fe6459ef2d16",
+    "size": 8205
+  },
+  "signature": null
+}

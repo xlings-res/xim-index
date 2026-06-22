@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "index_version": "0.4.53",
+  "index_name": "xim",
+  "generated_at": "2026-06-22T07:04:25Z",
+  "source_commit": "000f62c3b305c1c2cadbd24e8d07e65527954edb",
+  "artifact": {
+    "name": "xim-index-0.4.53.tar.gz",
+    "sha256": "810eae987a981608942f0b26d61aa5557c4cfc2b727ce34659717b0b2a661277",
+    "size": 197432
+  },
+  "signature": null
+}
