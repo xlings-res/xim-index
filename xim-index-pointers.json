@@ -1,16 +1,55 @@
 {
   "format_version": 1,
   "indexes": {
+    "awesome": {
+      "format_version": 1,
+      "index_version": "0.4.58",
+      "index_name": "awesome",
+      "generated_at": "2026-06-23T08:31:59Z",
+      "source_commit": "c17ca547a16ce02f129215256ffc69a031d32f0b",
+      "artifact": {
+        "name": "xim-index-awesome-0.4.58.tar.gz",
+        "sha256": "6a55c0bfe6978672fdfd99f6057c024df0ae0b266306948ecb86e362f6fa4f50",
+        "size": 7553
+      },
+      "signature": null
+    },
+    "d2x": {
+      "format_version": 1,
+      "index_version": "0.4.58",
+      "index_name": "d2x",
+      "generated_at": "2026-06-23T08:31:59Z",
+      "source_commit": "5f2a4c19d10b399d0a4aa455cc0d4557874bea4f",
+      "artifact": {
+        "name": "xim-index-d2x-0.4.58.tar.gz",
+        "sha256": "5a7ab8af685288ba6e72eed405d36537ee85e4c393a181680bd1e2258cc8b8d6",
+        "size": 6254
+      },
+      "signature": null
+    },
     "xim": {
       "format_version": 1,
-      "index_version": "ccec828",
+      "index_version": "0.4.58",
       "index_name": "xim",
-      "generated_at": "2026-06-23T21:21:53Z",
-      "source_commit": "ccec828e00888e0db8b288250a2e3c37ffe5467e",
+      "generated_at": "2026-06-23T08:31:58Z",
+      "source_commit": "7f18f89e54630b8e87a0cb484a4e78788f70a2b1",
       "artifact": {
-        "name": "xim-index-ccec828.tar.gz",
-        "sha256": "5211a5db9ce12d51eefd6531f1b0e6fcfffa40486c6432d0b571950b1636c963",
-        "size": 222021
+        "name": "xim-index-0.4.58.tar.gz",
+        "sha256": "70ffc211f0c68482464eb4aef7dc63865cc5c3fb6426e793a0c23ff393a1da88",
+        "size": 208168
+      },
+      "signature": null
+    },
+    "scode": {
+      "format_version": 1,
+      "index_version": "0.4.58",
+      "index_name": "scode",
+      "generated_at": "2026-06-23T08:31:59Z",
+      "source_commit": "9ac17094697943ccc356e65ff59ac7404fe1a148",
+      "artifact": {
+        "name": "xim-index-scode-0.4.58.tar.gz",
+        "sha256": "4dc7a1144455353c2bfb18b157549228babb9ea74f42a47e82e3802c9c27ee64",
+        "size": 8204
       },
       "signature": null
     }
