@@ -3,26 +3,26 @@
   "indexes": {
     "awesome": {
       "format_version": 1,
-      "index_version": "0.4.59",
+      "index_version": "c17ca54",
       "index_name": "awesome",
-      "generated_at": "2026-06-24T04:34:26Z",
+      "generated_at": "2026-06-25T00:02:15Z",
       "source_commit": "c17ca547a16ce02f129215256ffc69a031d32f0b",
       "artifact": {
-        "name": "xim-index-awesome-0.4.59.tar.gz",
-        "sha256": "45892b7f717d5775943285c57a29b86df504cce7ee779ad33c64c3fc4b5544fc",
-        "size": 7555
+        "name": "xim-index-awesome-c17ca54.tar.gz",
+        "sha256": "92ab7726ff8eb118eea4c1ad8280650195b97dbd7f3eb95e9c3120de473bc5ce",
+        "size": 7550
       },
       "signature": null
     },
     "d2x": {
       "format_version": 1,
-      "index_version": "0.4.59",
+      "index_version": "5f2a4c1",
       "index_name": "d2x",
-      "generated_at": "2026-06-24T04:34:27Z",
+      "generated_at": "2026-06-25T00:02:46Z",
       "source_commit": "5f2a4c19d10b399d0a4aa455cc0d4557874bea4f",
       "artifact": {
-        "name": "xim-index-d2x-0.4.59.tar.gz",
-        "sha256": "3e29b57657da229a8629497d3eec48b7a4c7a02d15bffe5734afb24e9cdac770",
+        "name": "xim-index-d2x-5f2a4c1.tar.gz",
+        "sha256": "9119aa586fb6cd18f5fd343d0229d1aec33347989a53448e27ee1c05ffcd776b",
         "size": 6257
       },
       "signature": null
@@ -42,14 +42,14 @@
     },
     "scode": {
       "format_version": 1,
-      "index_version": "0.4.59",
+      "index_version": "9ac1709",
       "index_name": "scode",
-      "generated_at": "2026-06-24T04:34:26Z",
+      "generated_at": "2026-06-25T00:02:31Z",
       "source_commit": "9ac17094697943ccc356e65ff59ac7404fe1a148",
       "artifact": {
-        "name": "xim-index-scode-0.4.59.tar.gz",
-        "sha256": "3aacd3c68e836b616439e2bc44204ab881f06a5e81bd8225aea005de0569bf36",
-        "size": 8204
+        "name": "xim-index-scode-9ac1709.tar.gz",
+        "sha256": "f05f46428c3745b884cd6e10d30560b0a4f604ce67b9bb70fdde0ba37bf55685",
+        "size": 8205
       },
       "signature": null
     }
