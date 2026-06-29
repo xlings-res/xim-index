@@ -29,14 +29,14 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "c24fef9",
+      "index_version": "bc2b8c1",
       "index_name": "xim",
-      "generated_at": "2026-06-29T15:48:34Z",
-      "source_commit": "c24fef97380b794a9c34f0fc5c123bd3e7502a4c",
+      "generated_at": "2026-06-29T18:11:47Z",
+      "source_commit": "bc2b8c16e1e5cba5fcd46cad99a85fe65d738659",
       "artifact": {
-        "name": "xim-index-c24fef9.tar.gz",
-        "sha256": "5b0a9183afbabff0e8ba96f17023c37e4d75781296680db8f42a0a32c78c9bfa",
-        "size": 242745
+        "name": "xim-index-bc2b8c1.tar.gz",
+        "sha256": "fbdfd9fcd5a6852949a1b39289a5a7259c186da7bbfd3569f4abf478328185b3",
+        "size": 242751
       },
       "signature": null
     },
