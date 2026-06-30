@@ -31,12 +31,12 @@
       "format_version": 1,
       "index_version": "cecf2ac",
       "index_name": "xim",
-      "generated_at": "2026-06-30T10:13:26Z",
+      "generated_at": "2026-06-30T19:27:56Z",
       "source_commit": "cecf2ac624ee8462bee82a5ee61f6b6e4635cdd6",
       "artifact": {
         "name": "xim-index-cecf2ac.tar.gz",
-        "sha256": "fd8c43417226409c6ba5af4b117cdb890a90c5f66ce4e772d3dfcf37de640eb2",
-        "size": 242819
+        "sha256": "c3972e23b6270735a23c29538d7c1bcab4c4bb7af0011537ae3b5c85e323c48b",
+        "size": 242836
       },
       "signature": null
     },
