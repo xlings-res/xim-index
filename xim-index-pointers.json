@@ -31,12 +31,12 @@
       "format_version": 1,
       "index_version": "b894897",
       "index_name": "xim",
-      "generated_at": "2026-07-10T19:11:56Z",
+      "generated_at": "2026-07-11T18:40:35Z",
       "source_commit": "b894897a471aad9536422292af2130fcf63ed596",
       "artifact": {
         "name": "xim-index-b894897.tar.gz",
-        "sha256": "4fa691320b879916f10caa69ad920aa01a6df17bf6436aad77d104230e1ce91d",
-        "size": 253728
+        "sha256": "4cbbfdd58fd8412184a9ccb67d739bcf9611f76fe324b4742b001c34ef8815d8",
+        "size": 253734
       },
       "signature": null
     },
