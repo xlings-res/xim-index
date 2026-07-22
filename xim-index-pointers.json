@@ -31,12 +31,12 @@
       "format_version": 1,
       "index_version": "bdb5694",
       "index_name": "xim",
-      "generated_at": "2026-07-22T13:07:00Z",
+      "generated_at": "2026-07-22T18:52:28Z",
       "source_commit": "bdb5694143c3ae6adebc58992c8ff5f500a25f82",
       "artifact": {
         "name": "xim-index-bdb5694.tar.gz",
-        "sha256": "c0c6ef84355a717b3e1ba3192994144186cd121af608e637ec08dbb8515bf2cd",
-        "size": 298532
+        "sha256": "5cecc41111a3a4dedca684a89b2a2d8a2267a280d8ea70485a251b9c9810a212",
+        "size": 298535
       },
       "signature": null
     },
