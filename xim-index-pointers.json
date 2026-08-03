@@ -1,5 +1,5 @@
 {
-  "format_version": 1,
+  "format_version": 2,
   "indexes": {
     "awesome": {
       "format_version": 1,
@@ -55,16 +55,29 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "e8ad461",
+      "index_version": "0bbd3c2",
       "index_name": "xim",
-      "generated_at": "2026-08-03T19:13:36Z",
-      "source_commit": "e8ad46181082adc788af70dce34ad62c018fa421",
+      "generated_at": "2026-08-03T19:26:57Z",
+      "source_commit": "0bbd3c2fb148e8bf5e832727384b94d5fb935c32",
       "artifact": {
-        "name": "xim-index-e8ad461.tar.gz",
-        "sha256": "4bc9aad57af810c527a3acc2afb057ddc1d81e53872e02fae7d721f00630d7c6",
-        "size": 375834
+        "name": "xim-index-0bbd3c2.tar.gz",
+        "sha256": "5ca7bf918d6705eac228c52e469f0f7901ba310479a55c00bf33a43a04c986b7",
+        "size": 383174
       },
-      "signature": null
+      "requires": {},
+      "signature": null,
+      "history": [
+        {
+          "index_version": "0bbd3c2",
+          "generated_at": "2026-08-03T19:26:57Z",
+          "artifact": {
+            "name": "xim-index-0bbd3c2.tar.gz",
+            "sha256": "5ca7bf918d6705eac228c52e469f0f7901ba310479a55c00bf33a43a04c986b7",
+            "size": 383174
+          }
+        }
+      ],
+      "history_truncated": false
     },
     "scode": {
       "format_version": 1,
