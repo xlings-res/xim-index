@@ -3,18 +3,27 @@
   "indexes": {
     "awesome": {
       "format_version": 1,
-      "index_version": "2026.8.6.1",
+      "index_version": "2026.8.6.2",
       "index_name": "awesome",
-      "generated_at": "2026-08-06T02:10:04Z",
+      "generated_at": "2026-08-06T04:00:28Z",
       "source_commit": "45dfd9304adb2c0846985517f647591fc69cdfad",
       "artifact": {
-        "name": "xim-index-awesome-2026.8.6.1.tar.gz",
-        "sha256": "dc91d9c8585b74fc576ec89d1de588e13ecfcc15188a7e17608ab7cf9db2b8f7",
+        "name": "xim-index-awesome-2026.8.6.2.tar.gz",
+        "sha256": "21670eeef4315dc3d9c0acce66b097d2bdae45cc82fa8475a0101b72b421ccbc",
         "size": 10740
       },
       "requires": {},
       "signature": null,
       "history": [
+        {
+          "index_version": "2026.8.6.2",
+          "generated_at": "2026-08-06T04:00:28Z",
+          "artifact": {
+            "name": "xim-index-awesome-2026.8.6.2.tar.gz",
+            "sha256": "21670eeef4315dc3d9c0acce66b097d2bdae45cc82fa8475a0101b72b421ccbc",
+            "size": 10740
+          }
+        },
         {
           "index_version": "2026.8.6.1",
           "generated_at": "2026-08-06T02:10:04Z",
@@ -74,18 +83,27 @@
     },
     "d2x": {
       "format_version": 1,
-      "index_version": "2026.8.6.1",
+      "index_version": "2026.8.6.2",
       "index_name": "d2x",
-      "generated_at": "2026-08-06T02:10:05Z",
+      "generated_at": "2026-08-06T04:00:29Z",
       "source_commit": "25a507065a2329ce7a8b53cbe9eb6957e6766e92",
       "artifact": {
-        "name": "xim-index-d2x-2026.8.6.1.tar.gz",
-        "sha256": "9470faaa2727c3f22cbaaba33128bb1da56fb88406a45ca908438d2b3ee18ff6",
-        "size": 9262
+        "name": "xim-index-d2x-2026.8.6.2.tar.gz",
+        "sha256": "3f48ff06d4faa6215dff0227de5036e3e2bfacf50bea6335be2b34806295b496",
+        "size": 9264
       },
       "requires": {},
       "signature": null,
       "history": [
+        {
+          "index_version": "2026.8.6.2",
+          "generated_at": "2026-08-06T04:00:29Z",
+          "artifact": {
+            "name": "xim-index-d2x-2026.8.6.2.tar.gz",
+            "sha256": "3f48ff06d4faa6215dff0227de5036e3e2bfacf50bea6335be2b34806295b496",
+            "size": 9264
+          }
+        },
         {
           "index_version": "2026.8.6.1",
           "generated_at": "2026-08-06T02:10:05Z",
@@ -145,18 +163,27 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "9f0b392",
+      "index_version": "2026.8.6.2",
       "index_name": "xim",
-      "generated_at": "2026-08-06T03:26:37Z",
-      "source_commit": "9f0b39245fc8482a4329d745b36e664e342223c4",
+      "generated_at": "2026-08-06T04:00:27Z",
+      "source_commit": "c84b758b2eb81457eed4720bbf8c3e1b26a2f0bf",
       "artifact": {
-        "name": "xim-index-9f0b392.tar.gz",
-        "sha256": "b9d1ddde43db275df952de50272622c6d917ce2c17eb539cc16498b3c854b135",
-        "size": 480963
+        "name": "xim-index-2026.8.6.2.tar.gz",
+        "sha256": "f56c007615c89c95a161851b5cd76e5fa203ab3f5c4c9d8ef6167f554de1dcb8",
+        "size": 485152
       },
       "requires": {},
       "signature": null,
       "history": [
+        {
+          "index_version": "2026.8.6.2",
+          "generated_at": "2026-08-06T04:00:27Z",
+          "artifact": {
+            "name": "xim-index-2026.8.6.2.tar.gz",
+            "sha256": "f56c007615c89c95a161851b5cd76e5fa203ab3f5c4c9d8ef6167f554de1dcb8",
+            "size": 485152
+          }
+        },
         {
           "index_version": "9f0b392",
           "generated_at": "2026-08-06T03:26:37Z",
@@ -219,33 +246,33 @@
             "sha256": "48110343eb44c618a35095485a67dd675aa466f61e870030be5db2729d1335ee",
             "size": 473941
           }
-        },
-        {
-          "index_version": "425b6a4",
-          "generated_at": "2026-08-05T19:08:20Z",
-          "artifact": {
-            "name": "xim-index-425b6a4.tar.gz",
-            "sha256": "888a734a61e285a106f4679f51eb2397646c76f272fd5cf174916e0ae74b6160",
-            "size": 468860
-          }
         }
       ],
       "history_truncated": false
     },
     "scode": {
       "format_version": 1,
-      "index_version": "2026.8.6.1",
+      "index_version": "2026.8.6.2",
       "index_name": "scode",
-      "generated_at": "2026-08-06T02:10:05Z",
+      "generated_at": "2026-08-06T04:00:28Z",
       "source_commit": "78fe9f0c81ff2119f3bca39f048e832ee0b8cba1",
       "artifact": {
-        "name": "xim-index-scode-2026.8.6.1.tar.gz",
-        "sha256": "b3e32e16a3715f41ff67dd47353aa376be275b6b7bda1f26881096b1457968a1",
-        "size": 11618
+        "name": "xim-index-scode-2026.8.6.2.tar.gz",
+        "sha256": "036fa88985c954cd51f5961fbbab24196f78adf71182af97413f560fc538b73d",
+        "size": 11620
       },
       "requires": {},
       "signature": null,
       "history": [
+        {
+          "index_version": "2026.8.6.2",
+          "generated_at": "2026-08-06T04:00:28Z",
+          "artifact": {
+            "name": "xim-index-scode-2026.8.6.2.tar.gz",
+            "sha256": "036fa88985c954cd51f5961fbbab24196f78adf71182af97413f560fc538b73d",
+            "size": 11620
+          }
+        },
         {
           "index_version": "2026.8.6.1",
           "generated_at": "2026-08-06T02:10:05Z",
@@ -305,6 +332,6 @@
     }
   },
   "client_latest": {
-    "xlings": "2026.8.6.1"
+    "xlings": "2026.8.6.2"
   }
 }
