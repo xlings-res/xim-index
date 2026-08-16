@@ -181,18 +181,27 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "520864d",
+      "index_version": "7ab8734",
       "index_name": "xim",
-      "generated_at": "2026-08-16T04:17:11Z",
-      "source_commit": "520864da8ef4ecc2104d52152f0ec8b7b56bc345",
+      "generated_at": "2026-08-16T04:25:37Z",
+      "source_commit": "7ab8734c7f0bdb029d146d0e0f55d41a0ac9cd1e",
       "artifact": {
-        "name": "xim-index-520864d.tar.gz",
-        "sha256": "0abafd80ea776db61503f4c18902b81db1739e0c40f7b0fde29ac8020861bcc8",
-        "size": 721050
+        "name": "xim-index-7ab8734.tar.gz",
+        "sha256": "62e687c835169a88a35fd637f5836b6f7f0c396cdb61115d418b4afe80a75090",
+        "size": 725884
       },
       "requires": {},
       "signature": null,
       "history": [
+        {
+          "index_version": "7ab8734",
+          "generated_at": "2026-08-16T04:25:37Z",
+          "artifact": {
+            "name": "xim-index-7ab8734.tar.gz",
+            "sha256": "62e687c835169a88a35fd637f5836b6f7f0c396cdb61115d418b4afe80a75090",
+            "size": 725884
+          }
+        },
         {
           "index_version": "520864d",
           "generated_at": "2026-08-16T04:17:11Z",
@@ -254,15 +263,6 @@
             "name": "xim-index-b7effc6.tar.gz",
             "sha256": "fda41ecdefa08431961c4eb60ffedff586e56952bca5d59baf7dd950ff9fbad1",
             "size": 702106
-          }
-        },
-        {
-          "index_version": "faa5cfa",
-          "generated_at": "2026-08-13T20:36:15Z",
-          "artifact": {
-            "name": "xim-index-faa5cfa.tar.gz",
-            "sha256": "0cafe8657eb2ea08613f6d7d82dcd653479e4496bd78c2ace2657659c4c7402d",
-            "size": 701048
           }
         }
       ],
