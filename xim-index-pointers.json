@@ -181,18 +181,27 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "2026.8.27.4",
+      "index_version": "e700e5b",
       "index_name": "xim",
-      "generated_at": "2026-08-27T10:18:42Z",
-      "source_commit": "dff6ceb4e021dc8889629013fe081dd546623559",
+      "generated_at": "2026-08-27T10:36:16Z",
+      "source_commit": "e700e5b3fece11626a2a873b4ef5c54171ec60f2",
       "artifact": {
-        "name": "xim-index-2026.8.27.4.tar.gz",
-        "sha256": "8033d8b3908245152c071dec2c219591551460c8229baf2db35124d0c97fd283",
-        "size": 830986
+        "name": "xim-index-e700e5b.tar.gz",
+        "sha256": "0a84747e271b412f38bae5fc3ed5f56f67651ad0928d4631122a2257376c9f20",
+        "size": 831209
       },
       "requires": {},
       "signature": null,
       "history": [
+        {
+          "index_version": "e700e5b",
+          "generated_at": "2026-08-27T10:36:16Z",
+          "artifact": {
+            "name": "xim-index-e700e5b.tar.gz",
+            "sha256": "0a84747e271b412f38bae5fc3ed5f56f67651ad0928d4631122a2257376c9f20",
+            "size": 831209
+          }
+        },
         {
           "index_version": "2026.8.27.4",
           "generated_at": "2026-08-27T10:18:42Z",
@@ -254,15 +263,6 @@
             "name": "xim-index-cad9570.tar.gz",
             "sha256": "5452756852150779c9a2cab3c1d69c392963cb21f085e735d219a2abedf3d2a9",
             "size": 830537
-          }
-        },
-        {
-          "index_version": "bb7b223",
-          "generated_at": "2026-08-27T01:56:31Z",
-          "artifact": {
-            "name": "xim-index-bb7b223.tar.gz",
-            "sha256": "95ee00914a28f54ef4528c10284aee00fcfbd7e22ab63ce311fc4f8344826bde",
-            "size": 831221
           }
         }
       ],
