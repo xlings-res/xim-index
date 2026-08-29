@@ -181,18 +181,27 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "92660f5",
+      "index_version": "bb97b61",
       "index_name": "xim",
-      "generated_at": "2026-08-29T17:40:33Z",
-      "source_commit": "92660f5127048d3fa4d4859fad973cb70c9f78c6",
+      "generated_at": "2026-08-29T18:24:52Z",
+      "source_commit": "bb97b6145c056889c601588cf383cb538928f566",
       "artifact": {
-        "name": "xim-index-92660f5.tar.gz",
-        "sha256": "c0e0fd570b36c7ece9c7fec623a9611c9b2d742433c5e10d747f09601d00d506",
-        "size": 832843
+        "name": "xim-index-bb97b61.tar.gz",
+        "sha256": "e3a72dfd60c2b304d4bc14b9dc23e5d1e2dd14c1efd05361f1dbf501d98827a6",
+        "size": 838771
       },
       "requires": {},
       "signature": null,
       "history": [
+        {
+          "index_version": "bb97b61",
+          "generated_at": "2026-08-29T18:24:52Z",
+          "artifact": {
+            "name": "xim-index-bb97b61.tar.gz",
+            "sha256": "e3a72dfd60c2b304d4bc14b9dc23e5d1e2dd14c1efd05361f1dbf501d98827a6",
+            "size": 838771
+          }
+        },
         {
           "index_version": "92660f5",
           "generated_at": "2026-08-29T17:40:33Z",
@@ -254,15 +263,6 @@
             "name": "xim-index-dbf10ca.tar.gz",
             "sha256": "b03d193e7e416613b111d766c7a15dc2daa61ab222ccf5e873e9620af09c6b95",
             "size": 831575
-          }
-        },
-        {
-          "index_version": "c8a2e01",
-          "generated_at": "2026-08-27T13:58:40Z",
-          "artifact": {
-            "name": "xim-index-c8a2e01.tar.gz",
-            "sha256": "e9a29a231ab6f4c38ada1f5f0ab2809a858f53b4e5561efca267258b2105f6b7",
-            "size": 831380
           }
         }
       ],
