@@ -183,7 +183,7 @@
       "format_version": 1,
       "index_version": "6d60234",
       "index_name": "xim",
-      "generated_at": "2026-09-12T16:36:43Z",
+      "generated_at": "2026-09-12T19:44:16Z",
       "source_commit": "6d60234edcb60c3284e9a4847137a601b697662d",
       "artifact": {
         "name": "xim-index-6d60234.tar.gz",
@@ -195,7 +195,7 @@
       "history": [
         {
           "index_version": "6d60234",
-          "generated_at": "2026-09-12T16:36:43Z",
+          "generated_at": "2026-09-12T19:44:16Z",
           "artifact": {
             "name": "xim-index-6d60234.tar.gz",
             "sha256": "a99c5964f276a978c703d4d7fc7d2930733abd4898a6f8df7fe1e6dbf36aaa19",
