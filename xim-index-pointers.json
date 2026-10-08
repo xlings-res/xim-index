@@ -181,14 +181,14 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "f2aea9d",
+      "index_version": "004ae51",
       "index_name": "xim",
-      "generated_at": "2026-10-08T10:21:30Z",
-      "source_commit": "f2aea9d0df6e46526c9b2fb969dfdfb61e0989dc",
+      "generated_at": "2026-10-08T17:59:36Z",
+      "source_commit": "004ae51680d699d75bd4283bbf3fff9315a7b5d7",
       "artifact": {
-        "name": "xim-index-f2aea9d.tar.gz",
-        "sha256": "c45ff30876d76c26ec73421695c4a56e669b0705eb7c41e9d7cbec86db67831d",
-        "size": 1456269
+        "name": "xim-index-004ae51.tar.gz",
+        "sha256": "55e0a6db261571ea84454fb676e16fa2438e60c5645d2ac069e0ca071afd63f5",
+        "size": 1456504
       },
       "requires": {
         "xlings": {
@@ -197,6 +197,20 @@
       },
       "signature": null,
       "history": [
+        {
+          "index_version": "004ae51",
+          "generated_at": "2026-10-08T17:59:36Z",
+          "artifact": {
+            "name": "xim-index-004ae51.tar.gz",
+            "sha256": "55e0a6db261571ea84454fb676e16fa2438e60c5645d2ac069e0ca071afd63f5",
+            "size": 1456504
+          },
+          "requires": {
+            "xlings": {
+              "min": "2026.10.8.1"
+            }
+          }
+        },
         {
           "index_version": "f2aea9d",
           "generated_at": "2026-10-08T10:21:30Z",
@@ -268,15 +282,6 @@
             "name": "xim-index-1b8f283.tar.gz",
             "sha256": "4a07fbd91a4a6a1d9b8fbc628f509ba95389ae114a1b6a2f96a2c73b1f3ccf81",
             "size": 1405855
-          }
-        },
-        {
-          "index_version": "1a5760e",
-          "generated_at": "2026-10-07T05:39:57Z",
-          "artifact": {
-            "name": "xim-index-1a5760e.tar.gz",
-            "sha256": "0b3bfa65b85343680ed9b74f381b440c1502b5ca45a63bcfbf7749be624f771e",
-            "size": 1405785
           }
         }
       ],
