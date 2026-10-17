@@ -181,14 +181,14 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "7837a99",
+      "index_version": "4da89dc",
       "index_name": "xim",
-      "generated_at": "2026-10-17T04:27:19Z",
-      "source_commit": "7837a997e6cbb10aab8dbf9008c6fcdc42ac38b1",
+      "generated_at": "2026-10-17T04:38:47Z",
+      "source_commit": "4da89dca5de984010a79caf03d497578f29b2a12",
       "artifact": {
-        "name": "xim-index-7837a99.tar.gz",
-        "sha256": "0eccc835e6f143983e5f39a5814c82ca44a5dff076c5f9e4616ccb10bb4b6ef6",
-        "size": 1578381
+        "name": "xim-index-4da89dc.tar.gz",
+        "sha256": "fbb7cf5060941dd6f06e275f2393cee8a3470698c007a9932a01017856a3db08",
+        "size": 1578473
       },
       "requires": {
         "xlings": {
@@ -197,6 +197,20 @@
       },
       "signature": null,
       "history": [
+        {
+          "index_version": "4da89dc",
+          "generated_at": "2026-10-17T04:38:47Z",
+          "artifact": {
+            "name": "xim-index-4da89dc.tar.gz",
+            "sha256": "fbb7cf5060941dd6f06e275f2393cee8a3470698c007a9932a01017856a3db08",
+            "size": 1578473
+          },
+          "requires": {
+            "xlings": {
+              "min": "2026.10.8.1"
+            }
+          }
+        },
         {
           "index_version": "7837a99",
           "generated_at": "2026-10-17T04:27:19Z",
@@ -288,20 +302,6 @@
             "name": "xim-index-f7dc3c5.tar.gz",
             "sha256": "e5781775ab4a0778dbfe3eb53480d43f8d9c09d83a7cc509b3687fbf065c1d90",
             "size": 1576582
-          },
-          "requires": {
-            "xlings": {
-              "min": "2026.10.8.1"
-            }
-          }
-        },
-        {
-          "index_version": "82db6e4",
-          "generated_at": "2026-10-16T17:41:34Z",
-          "artifact": {
-            "name": "xim-index-82db6e4.tar.gz",
-            "sha256": "971bbdde6198022477fa31aa4c5d9955209969d2da738294bfeed631af5df885",
-            "size": 1576459
           },
           "requires": {
             "xlings": {
