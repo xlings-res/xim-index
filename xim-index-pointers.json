@@ -181,14 +181,14 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "105a028",
+      "index_version": "2009c86",
       "index_name": "xim",
-      "generated_at": "2026-11-21T20:35:03Z",
-      "source_commit": "105a028752c84d314b55d639d1b8459baeda4f10",
+      "generated_at": "2026-11-21T21:04:59Z",
+      "source_commit": "2009c86ba7d492f82a30a268b806e1c06db3bf15",
       "artifact": {
-        "name": "xim-index-105a028.tar.gz",
-        "sha256": "67175780b72564037d1a5e33b029f484cbc5026d1904c320abdb0e470e79f701",
-        "size": 1954644
+        "name": "xim-index-2009c86.tar.gz",
+        "sha256": "d86d9c4fc9bb535c3d103b0e01a89d5787ba92c59cd842639504458f4c8f2db5",
+        "size": 1954674
       },
       "requires": {
         "xlings": {
@@ -197,6 +197,20 @@
       },
       "signature": null,
       "history": [
+        {
+          "index_version": "2009c86",
+          "generated_at": "2026-11-21T21:04:59Z",
+          "artifact": {
+            "name": "xim-index-2009c86.tar.gz",
+            "sha256": "d86d9c4fc9bb535c3d103b0e01a89d5787ba92c59cd842639504458f4c8f2db5",
+            "size": 1954674
+          },
+          "requires": {
+            "xlings": {
+              "min": "2026.10.10.2"
+            }
+          }
+        },
         {
           "index_version": "105a028",
           "generated_at": "2026-11-21T20:35:03Z",
