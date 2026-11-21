@@ -181,22 +181,36 @@
     },
     "xim": {
       "format_version": 1,
-      "index_version": "2026.11.21.1",
+      "index_version": "35c68df",
       "index_name": "xim",
-      "generated_at": "2026-11-21T06:55:00Z",
-      "source_commit": "c0023dd06df46979fd22e65c1780d62621f05038",
+      "generated_at": "2026-11-21T07:55:02Z",
+      "source_commit": "35c68df54085bec38eb813c76f6fc38b6622c26c",
       "artifact": {
-        "name": "xim-index-2026.11.21.1.tar.gz",
-        "sha256": "45beaf1ec06beafd702556add531f002670a2503b36ccba98d271a261783792c",
-        "size": 1947553
+        "name": "xim-index-35c68df.tar.gz",
+        "sha256": "8f7337a6e83aaec4f70536f9c36f58e3a72dd29b30b53dedc418e268840d4f06",
+        "size": 1933047
       },
       "requires": {
         "xlings": {
-          "min": "2026.10.8.1"
+          "min": "2026.10.10.2"
         }
       },
       "signature": null,
       "history": [
+        {
+          "index_version": "35c68df",
+          "generated_at": "2026-11-21T07:55:02Z",
+          "artifact": {
+            "name": "xim-index-35c68df.tar.gz",
+            "sha256": "8f7337a6e83aaec4f70536f9c36f58e3a72dd29b30b53dedc418e268840d4f06",
+            "size": 1933047
+          },
+          "requires": {
+            "xlings": {
+              "min": "2026.10.10.2"
+            }
+          }
+        },
         {
           "index_version": "2026.11.21.1",
           "generated_at": "2026-11-21T06:55:00Z",
@@ -288,20 +302,6 @@
             "name": "xim-index-f66428f.tar.gz",
             "sha256": "b57a9d1026e02f20fe99010a64a213b80ec5a88de7284797eb069f28c41269dd",
             "size": 1924830
-          },
-          "requires": {
-            "xlings": {
-              "min": "2026.10.8.1"
-            }
-          }
-        },
-        {
-          "index_version": "ba899bb",
-          "generated_at": "2026-11-20T01:08:37Z",
-          "artifact": {
-            "name": "xim-index-ba899bb.tar.gz",
-            "sha256": "569f12647e1060a4c9dcca38d3204ce281960f3d39d12434e8cd4bacdf8139e2",
-            "size": 1924573
           },
           "requires": {
             "xlings": {
